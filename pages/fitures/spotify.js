@@ -28,8 +28,8 @@ module.exports = async (req, res) => {
     const data = response.data // Extract the data from the response
 
     const info = {
-      Founder: "H4KI XER", // Only include H4KI XER
-      company: "Nikka Botz Inc",
+      Founder: "RAMADHAN", // Only include H4KI XER
+      company: "RAMAH BOTS",
       data: data.results // Assign the fetched data here
     }
 
